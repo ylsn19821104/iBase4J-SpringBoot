@@ -14,7 +14,7 @@
 hs_err_pid*
 
 /.project
-
+/.idea
 
 # https://github.com/github/gitignore/blob/master/Maven.gitignore
 target/
